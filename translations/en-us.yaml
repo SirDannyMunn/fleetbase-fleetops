@@ -538,7 +538,7 @@ fleet-ops:
       order-route-form:
         toggle: Toggle Multiple Dropoff's
         optimize: Optimize Route
-        optimize-text: Fleetbase will automatically optimize the route.
+        optimize-text: Laundry OS will automatically optimize the route.
         add: Add Waypoint
         add-text: Use the `Add Waypoint` button to add more stops for this order. The Fleetbase routing engine will automatically optimize the route as each stop is added or removed.
         select-waypoint: Select Waypoint 
@@ -1316,7 +1316,7 @@ fleet-ops:
           route: Route
           route-label: Multiple Dropoff's
           optimize-route: Optimize Route
-          optimize-route-help-text: Fleetbase will automatically optimize the route.
+          optimize-route-help-text: Laundry OS will automatically optimize the route.
           add-waypoint: Add Waypoint
           add-waypoint-help-text: Use the `Add Waypoint` button to add more stops for this order. The Fleetbase routing engine will automatically optimize the route as each stop is added or removed.
           select-waypoint-placeholder: Select Waypoint
