@@ -2,6 +2,7 @@ fleet-ops:
   extension-name: Fleet-Ops
   common:
     active-manpower: Active Manpower
+    unauthorized-access: Unauthorized access
     address: Address 
     amount: Amount
     assignee: Assignee
